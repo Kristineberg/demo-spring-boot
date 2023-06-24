@@ -7,7 +7,7 @@
     <parent>
         <artifactId>demo-spring-boot</artifactId>
         <groupId>io.github.kristineberg</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
 
     <artifactId>demo-client-core</artifactId>

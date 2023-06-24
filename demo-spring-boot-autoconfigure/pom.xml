@@ -7,7 +7,7 @@
     <parent>
         <artifactId>demo-spring-boot</artifactId>
         <groupId>io.github.kristineberg</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
 
     <artifactId>demo-spring-boot-autoconfigure</artifactId>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>io.github.kristineberg</groupId>
             <artifactId>demo-client-core</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
         </dependency>
         <!-- 自动配置 -->
         <dependency>
